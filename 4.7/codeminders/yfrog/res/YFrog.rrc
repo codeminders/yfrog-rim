@@ -1,0 +1,161 @@
+APP_DESCRIPTION#0="YFrog";
+APP_TITLE#0="YFrog";
+APP_VERSION#0="1.0.10";
+APP_VERSION_BUILD#0="22";
+LABEL_IMAGES_LOCATION#0="Save Pictures";
+LABEL_IMAGES_LOCATION_MEMORY#0="In Device Memory";
+LABEL_IMAGES_LOCATION_SDCARD#0="On Media Card";
+LABEL_LOAD_MORE#0="Load More...";
+LABEL_LOGIN_BASIC#0="Username & Password";
+LABEL_LOGIN_OAUTH#0="Secure Web Authorization";
+LABEL_LOGIN_TYPE#0="Login using";
+LABEL_MAPS_APPLICATION#0="Maps Viewer";
+LABEL_MAPS_APP_GOOGLE_MAPS_WEB#0="Google Maps (Web)";
+LABEL_MAPS_APP_INTERNAL#0="Blackberry Maps";
+LABEL_PASSWORD#0="Twitter Password";
+LABEL_REMEMBER_ME#0="Remember Me";
+LABEL_SEARCH#0="Search";
+LABEL_SEARCH_USER#0="Search User";
+LABEL_UPDATE_MEDIA_LOCATION#0="Media";
+LABEL_UPDATE_MY_LOCATION#0="My Location";
+LABEL_UPDATE_TEXT_LOCATION#0="Text";
+LABEL_USERNAME#0="Twitter Login";
+LABEL_USER_NOTIFICATIONS#0="Device Updates";
+LABEL_YESTERDAY#0="Yesterday";
+MENU_ATTACH_MEDIA#0="Insert Media... >";
+MENU_BACK#0="Back";
+MENU_BROWSE_MEDIA#0="Existing Media";
+MENU_BY_EMAIL#0="Email";
+MENU_BY_SMS#0="SMS";
+MENU_CAMERA#0="Launch Camera";
+MENU_CANCEL#0="Cancel";
+MENU_CHANGE_ACCOUNT#0="Change Account";
+MENU_DELETE#0="Delete";
+MENU_DISCARD#0="Discard";
+MENU_EXIT#0="Exit";
+MENU_FOLLOW#0="Follow";
+MENU_FORWARD_ITEM#0="Forward... >";
+MENU_GET_LOCATION#0="Retrieve Location";
+MENU_GO#0="Go";
+MENU_LOAD_FULL_IMAGE#0="Get Full-Size";
+MENU_LOAD_MORE#0="Load More";
+MENU_LOGIN#0="Sign In";
+MENU_LOGOUT#0="Sign Out";
+MENU_NEW_TWEET#0="New Tweet";
+MENU_OK#0="OK";
+MENU_OPEN#0="Open";
+MENU_PLAY#0="Play";
+MENU_QUEUE#0="Queue";
+MENU_RECENT_TWEETS#0="Recent Tweets";
+MENU_REFRESH#0="Refresh";
+MENU_RELOAD#0="Reload";
+MENU_REPLY#0="Reply";
+MENU_RESET_WALLPAPER#0="Reset Wallpaper";
+MENU_RETWEET#0="Re-Tweet";
+MENU_SAVE#0="Save";
+MENU_SAVED_SEARCHES#0="Saved Searches";
+MENU_SEARCH_USER#0="Search User";
+MENU_SEND#0="Send";
+MENU_SEND_ALL#0="Send All";
+MENU_SEND_DIRECT_MESSAGE#0="Send Direct Message";
+MENU_SEND_PUBLIC_REPLY#0="Send Public Reply";
+MENU_SET_WALLPAPER#0="Set As Wallpaper";
+MENU_SHOW_FULL_VIDEO#0="View video";
+MENU_SHOW_SEARCH#0="Search";
+MENU_START_SEARCH#0="Search";
+MENU_STOP#0="Stop";
+MENU_TOP_VIEW#0="View... >";
+MENU_UNFOLLOW#0="Unfollow";
+MENU_USER_FOLLOWERS#0="Followers";
+MENU_VIDEO#0="Record Video";
+MENU_VIEW_LOCATION#0="View Location";
+MENU_VIEW_USER_FMT#0="View {0}";
+MENU_YES#0="Yes";
+MENU_ZOOM_FIT#0="Fit to Screen";
+MENU_ZOOM_FULL#0="View Actual Size";
+MSG_CURRENT_ACCOUNT_FMT#0="You are logged in to Twitter as {0}";
+MSG_DELETING#0="Deleting...";
+MSG_IMAGE_FILE_EXISTS#0="Cannot save picture. File already exists.";
+MSG_IMAGE_PATH_NOT_EXISTS#0="Cannot save picture. Path not exists.";
+MSG_IMAGE_SAVED#0="Picture Saved";
+MSG_INVALID_LOCATION#0="Invalid Location";
+MSG_LOADING#0="Loading...";
+MSG_LOADING_DIRECT_MESSAGES#0="Loading Messages...";
+MSG_LOADING_FOLLOWERS#0="Loading Followers...";
+MSG_LOADING_FOLLOWING#0="Loading Following Users...";
+MSG_LOADING_SAVED_SEARCHES#0="Loading Saved Searches...";
+MSG_LOADING_TWEETS#0="Loading Tweets...";
+MSG_LOGGING_IN#0="Signing In...";
+MSG_MESSAGE_TOO_LONG#0="The message is to long. It should be up to 140 characters.";
+MSG_NO_DIRECT_MESSAGES#0="No Messages";
+MSG_NO_FOLLOWERS#0="No Followers";
+MSG_NO_FOLLOWING#0="No Following Users";
+MSG_NO_IMAGE_INFO#0="Cannot download. No picture info available.";
+MSG_NO_LOCATION#0="Cannot retrieve your current location. Please try again later.";
+MSG_NO_SAVED_SEARCHES#0="No Saved Searches";
+MSG_NO_TWEETS#0="No Tweets";
+MSG_NO_TWEETS_FOUND#0="No Tweets Found";
+MSG_NO_USERS_FOUND#0="No Users Found";
+MSG_NO_VIDEO_INFO#0="Cannot show video. No video info loaded.";
+MSG_PROGRESS#0="Requesting...";
+MSG_RETRIEVING_LOCATION#0="Retrieving Location...";
+MSG_SAVE_SEARCH#0="Save Search";
+MSG_SAVING#0="Saving...";
+MSG_SEARCHING#0="Searching...";
+MSG_SENDING#0="Sending...";
+MSG_SENDING_IMAGE#0="Uploading Image...";
+MSG_SENDING_NEW_DIRECT_MESSAGE#0="Sending a new Message...";
+MSG_SENDING_NEW_TWEET#0="Sending a new Tweet...";
+MSG_SETTINGS_CHANGED#0="Save changes?";
+MSG_TWEET_NOT_SENT#0="The message is not sent. Your changes will be lost.";
+MSG_UNSUPPORTED_MEDIA#0="Unsupported media type";
+MSG_UNSUPPORTED_VIDEO#0="H.264 video playback is not supported on this smartphone";
+MSG_UPDATING#0="Updating...";
+MSG_VIDEO_ERROR#0={
+    "Unknown Media Error",
+    "Media player busy: the media player is currently performing an operation that precludes the requested operation.",
+    "Invalid parameter: a parameter was specified with an invalid value.",
+    "Insufficient memory: there is insufficient memory to perform the requested operation.",
+    "Need more data: playback cannot proceed until the streaming source provides more data.",
+    "Unspecified: some error occured which does not fit into any other category.",
+    "Format: an error in the media file was detected.",
+    "No server response: a server has stopped responding.",
+    "Connetion lost: the current connection has been dropped.",
+    "DNS resolve error: an invalid URL has been detected.",
+    "Unseekable: the media player needs to seek in the file in order to access headers, but can't since the file being played is unseekable.",
+    "Connection timeout: the (streaming) server is unreachable.",
+    "No rights: indicates the DRM agent wasn't able to find a valid digital right in the media.",
+    "General client error: the streaming server rejected the streaming request.",
+    "Server error: an error occured on the streaming server while streaming.",
+    "Payment required: payment is required to stream this item from the server.",
+    "Forbidden: the streaming server has rejected the streaming request for security reasons.",
+    "Client file not found: the item required to stream doesn't exist or has been removed from the server.",
+    "Client proxy authentication required: device needs to authenticate with a proxy server before streaming.",
+    "Client request URI too large: the request URI sent to the server is too large.",
+    "Not enough bandwidth: there is not enough bandwidth to support streaming.",
+    "Client session not found: streaming session has been removed by the server.",
+    "Unsupported transport: the streaming server/network doesn't support UDP/TCP streaming.",
+};
+MSG_VIDEO_FILE_EXISTS#0="Cannot save video. File already exists.";
+MSG_VIDEO_PATH_NOT_EXISTS#0="Cannot save video. Path not exists.";
+MSG_VIDEO_SAVED#0="Video Saved";
+TEXT_ABOUT#0="%APP%\nver. %VER%\n© 2009 ImageShack Corp.\nAll rights reserved.\nhttp://yfrog.com/";
+
+TITLE_ABOUT#0="About";
+TITLE_DIRECT_MESSAGES#0="Messages";
+TITLE_FILE_BROWSE#0="Choose File";
+TITLE_FOLLOWERS#0="Followers";
+TITLE_FOLLOWING#0="Following";
+TITLE_HOME#0="Home";
+TITLE_LOCATION#0="Location";
+TITLE_LOGIN#0="Twitter Account";
+TITLE_MENTIONS#0="Mentions";
+TITLE_NEW_DIRECT_MESSAGE#0="New Message";
+TITLE_NEW_TWEET#0="New Tweet";
+TITLE_SAVED_SEARCHES#0="Saved Searches";
+TITLE_SEARCH#0="Search";
+TITLE_SETTINGS#0="Settings";
+TITLE_UNSENT#0="Unsent";
+TWITTER_APP_CONSUMER_KEY#0="3Bs1qwgF3IJHwPtuK2o4ww";
+TWITTER_APP_CONSUMER_SECRET#0="jV2KidtunzzH0LKqN4ilM3muIMIv9b9WWDmIoUUyvY";
+YFROG_API_KEY#0="69EFIKMNd47c72d1c82148a6210694cbc8850288";

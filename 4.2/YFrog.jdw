@@ -1,0 +1,22 @@
+## RIM Java Development Environment
+# RIM Workspace file
+[BuildConfigurations
+Debug
+Release
+]
+DependenciesInWorkspace=0
+[ImplicitRules
+]
+[Imports
+]
+[Projects
+YFrog.jdp
+YFrogInit.jdp
+YFrogLib.jdp
+]
+[ReleaseActiveProjects
+YFrog.jdp
+YFrogLib.jdp
+]
+VendorOverride=CodeMinders
+VersionOverride=1.0.10
